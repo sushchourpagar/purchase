@@ -2,7 +2,7 @@
 How to run project on windows
 firstly install python in windows sysytem and set the environment variable. mostly while installing python it will get set environment path by default.
 then open cmd in windows run command 
-> pip install pandas ,
+> pip install pandas and
 > pip install Django
 then go to project directory through cmd like,
 > consider you stored this project in Desktop
